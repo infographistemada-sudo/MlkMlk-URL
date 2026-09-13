@@ -519,3 +519,103 @@ coralie.jehan@coralieartdevivre.fr,coralieartdevivre.fr,mx1.mail.ovh.net,Non,"In
 florent.paillas@yoburo.com,yoburo.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
 alicia.jaux@enevabeaute.fr,enevabeaute.fr,,,Impossible (résolution MX échouée),Impossible (MX)
 beatrice.madelon@entreprisesetspa.fr,entreprisesetspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laurianne.durin@spatherapy.fr,spatherapy.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+contact@spaconsulting.fr,spaconsulting.fr,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.203.48])",Incertain
+lea.lecerf@sam-lea.fr,sam-lea.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+l.vesperini@stcg.fr,stcg.fr,stcg-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+felicia.leroux@gaiamassages.fr,gaiamassages.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.203.48])",Incertain
+petula.elzenaar@purecosmetic.fr,purecosmetic.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+adeline.v@ysea-formation.fr,ysea-formation.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.203.48])",Incertain
+sandra.graff@rspire.fr,rspire.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+floriane.renaud@eveilosens.fr,eveilosens.fr,mx01.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+laetitia.c@laserenitedelame.fr,laserenitedelame.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+martine.tipa@mooreana.com,mooreana.com,,,Impossible (résolution MX échouée),Impossible (MX)
+melanie.jourdain@ayathaibienetre.fr,ayathaibienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+camille.coutret@gmail.com,gmail.com,gmail-smtp-in.l.google.com,Non,Valide (SMTP 250),Valide
+ludivine.blot@renaitre.fr,renaitre.fr,mx01.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+elise.brebion@asianvilla.fr,asianvilla.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+david@lesmassagesdedavid.fr,lesmassagesdedavid.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+pascale.viraye@outlook.fr,outlook.fr,eur.olc.protection.outlook.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+victoria.castella@lamagiedessens.fr,lamagiedessens.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+isabelle.bessiere@gmail.com,gmail.com,gmail-smtp-in.l.google.com,Non,Valide (SMTP 250),Valide
+kevin.duvivier@rocaspa.com,rocaspa.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.203.48])",Incertain
+priscilla@spadom.fr,spadom.fr,spadom-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+sonia.mesbah@outlook.fr,outlook.fr,eur.olc.protection.outlook.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+dolores.guillemet@plumedange.fr,plumedange.fr,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [172.182.203.48] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/172.182.203.48)",Incertain
+leslie.rutler@asianvilla.fr,asianvilla.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laura.lemarchand@comspa.fr,comspa.fr,ASPMX.L.GOOGLE.COM,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+guillaume.huard@aplustourismespa.fr,aplustourismespa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+coralie.tripet@ecoleterrade.com,ecoleterrade.com,ecoleterrade-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+contact@alohamaisonspa.fr,alohamaisonspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+pauline.merah@oceandebeaute.fr,oceandebeaute.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+malika.cheikh@sozen.fr,sozen.fr,mx1.forwardemail.net,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+magali.rousselle@optitssoins.fr,optitssoins.fr,optitssoins.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+anthony.soulas@ecoleinternationaleduspa.fr,ecoleinternationaleduspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+phane.laurence@loserenite.fr,loserenite.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+christelle.perridy@voyagebienetre.fr,voyagebienetre.fr,mx1.nexylan.net,Non,Incertain (Code 554 : 5.7.1 <christelle.perridy@voyagebienetre.fr>: Relay access denied),Incertain
+helene.hecquet@rituelbienetre.fr,rituelbienetre.fr,mx1.hostinger.com,Non,Incertain (Code 554 : 5.7.1 <helene.hecquet@rituelbienetre.fr>: Relay access denied),Incertain
+blandine.jaffelin@wellnessconsulting.fr,wellnessconsulting.fr,imap.mail.webnode.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+segolene.carer@payot.com,payot.com,payot-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+bertrand.bornil@ecoleinternationaleduspa.fr,ecoleinternationaleduspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+alexia.monserat@leobeaute.fr,leobeaute.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.203.48])",Incertain
+silke.raensch@angati.de,angati.de,,,Impossible (résolution MX échouée),Impossible (MX)
+shanna.deoliveira@laccordparfait.fr,laccordparfait.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.203.48])",Incertain
+marjorie.benamaguibaud@gmail.com,gmail.com,gmail-smtp-in.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+thanida.sirahirun@thaibalance.fr,thaibalance.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+helene.cren@hayaatherapy.fr,hayaatherapy.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laurence.ferre@peauetique.fr,peauetique.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+lucien.nicolas@lumains.fr,lumains.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.203.48])",Incertain
+max.kranich@dach-spa-awards.com,dach-spa-awards.com,,,Impossible (résolution MX échouée),Impossible (MX)
+marie.mouchon@mcare.fr,mcare.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.203.48])",Incertain
+marion.villedieu@expertisespabienetre.fr,expertisespabienetre.fr,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.203.48])",Incertain
+kathrin.jindra@suvanapum.at,suvanapum.at,mail.suvanapum.at,Non,Inexistant (SMTP 550),Inexistant
+contact@monmasseur.com,monmasseur.com,mx14.mail.magic.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+julia.giannoli@juliagiannoli.com,juliagiannoli.com,,,Impossible (résolution MX échouée),Impossible (MX)
+chloe.lauzero@campusesthétiquespa.fr,campusesthétiquespa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laure.letellier@ecoleterrade.com,ecoleterrade.com,ecoleterrade-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+rkia.guendouli@spaconnectors.com,spaconnectors.com,mx.zoho.com,Non,Inexistant (SMTP 550),Inexistant
+didier.maurin@unsouffledeprovence.fr,unsouffledeprovence.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+nicolas.pavee@apnwellness.fr,apnwellness.fr,mx01.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+charlotte.moine@bulledeplaisir.fr,bulledeplaisir.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+ahmed.aldereny@beautylounge.com,beautylounge.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+floriane.damois@gmail.com,gmail.com,gmail-smtp-in.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+nana.beuve@espacebeaute.fr,espacebeaute.fr,mx186.mb1p.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+mireille.baconnet@miriaform.fr,miriaform.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+contact@gmedspa.com,gmedspa.com,,,Impossible (résolution MX échouée),Impossible (MX)
+osman.aydin@hautnah-medical.at,hautnah-medical.at,,,Impossible (résolution MX échouée),Impossible (MX)
+cecile.charraud@espacebeaute.fr,espacebeaute.fr,mx186.mb1p.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+kati.kovacs@mosermilani.at,mosermilani.at,,,Impossible (résolution MX échouée),Impossible (MX)
+virginie.larmet@espacebienetre.fr,espacebienetre.fr,mail-fr.securemail.pro,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+alice.vandewalle@sensesroom.com,sensesroom.com,,,Impossible (résolution MX échouée),Impossible (MX)
+helene.laffitte@lespasonore.com,lespasonore.com,,,Impossible (résolution MX échouée),Impossible (MX)
+ruth.pitois@prive-spa.com,prive-spa.com,,,Impossible (résolution MX échouée),Impossible (MX)
+mayumi.sudo@massage.com,massage.com,mx002.register.xion.oxcs.net,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+sylvie.figuet@formaspa.fr,formaspa.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.203.48])",Incertain
+charles.bujard@laquintessence.com,laquintessence.com,,,Impossible (résolution MX échouée),Impossible (MX)
+jules.roumegous@beau-rivage.ch,beau-rivage.ch,smtp2.ngit.ch,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+maxance.blanchard@hotel-negresco.net,hotel-negresco.net,,,Impossible (résolution MX échouée),Impossible (MX)
+florent.petit@univerzen.fr,univerzen.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+contact@thaiwellnesslounge.fr,thaiwellnesslounge.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+coralie.saorin@collectifbe.fr,collectifbe.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+mariana.salamon@indigobienetre.fr,indigobienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+muriel.schumann@dermocosmetique.fr,dermocosmetique.fr,mail.dermocosmetique.fr,Non,Timeout (le port 25 est probablement bloqué par votre réseau/hébergeur),Erreur (voir Resultat_SMTP)
+vanessa.bobeaux@doterra.com,doterra.com,doterra-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+carole.t@escapewithkk.com,escapewithkk.com,,,Impossible (résolution MX échouée),Impossible (MX)
+jennifer.metaimas@holibody.fr,holibody.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+contact@wellnesskafe.fr,wellnesskafe.fr,cp1.obambu.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+lalida.otpia@orionwellness.com,orionwellness.com,,,Impossible (résolution MX échouée),Impossible (MX)
+melanie.lorman@surya-ayurveda.fr,surya-ayurveda.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.203.48])",Incertain
+audrey.ferrer@mareayoga.fr,mareayoga.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+simone.hochscheid@simoneyoga.fr,simoneyoga.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+xanath.lichy@harmonieclarte.com,harmonieclarte.com,,,Impossible (résolution MX échouée),Impossible (MX)
+jessi@jessiyoga.fr,jessiyoga.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+cecile.cohe@yogipousse.fr,yogipousse.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.203.48])",Incertain
+clotilde.s@yognmove.com,yognmove.com,srv05.haisoft.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [172.182.203.48] blocked using sbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/172.182.203.48)",Incertain
+m.steindler@mental-yoga.at,mental-yoga.at,,,Impossible (résolution MX échouée),Impossible (MX)
+shivani.bhavsar@natayoga.fr,natayoga.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+karin.preisinger@yogaheart.at,yogaheart.at,mx01.easyname.eu,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+lucie.cretin@yogilu.fr,yogilu.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+saraswati.boateng@devisdaughters.com,devisdaughters.com,mail.devisdaughters.com,Non,Inexistant (SMTP 550),Inexistant
+annie.asseraf@gmail.com,gmail.com,gmail-smtp-in.l.google.com,Non,Valide (SMTP 250),Valide
+yordanka.naydenova@gmail.com,gmail.com,gmail-smtp-in.l.google.com,Non,Valide (SMTP 250),Valide
+colomba.ferraiuolo@ariapilates.fr,ariapilates.fr,,,Impossible (résolution MX échouée),Impossible (MX)
