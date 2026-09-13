@@ -3019,3 +3019,103 @@ marielaure.caignec@thalazur.fr,thalazur.fr,mx4.coaxis.com,Non,Inexistant (SMTP 5
 marielaure.duprez@miramar-lacigale.com,miramar-lacigale.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.84.47.34])",Incertain
 marielaure.lauriaut@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <marielaure.lauriaut@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
 marielaure.pochic@miramar-lacigale.com,miramar-lacigale.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.84.47.34])",Incertain
+mariella.pimentel@cedrebeaune.com,cedrebeaune.com,cedrebeaune-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+marielle.gambina@ihg.com,ihg.com,mxb-0036c501.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+marielle.godoc@oceaniahotels.com,oceaniahotels.com,oceaniahotels-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+mariem.zitouni@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+marieodile.giuliani@chateaudelatreyne.com,chateaudelatreyne.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [9.234.151.17])",Incertain
+marika.badel@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+marilyne.mougamadou@logishotels.com,logishotels.com,logishotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+marilyne.pillot@escalespa.fr,escalespa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+marin.dailly@hotel-roi-arthur.fr,hotel-roi-arthur.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+marina.boudanova@mamashelter.com,mamashelter.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <marina.boudanova@mamashelter.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+marina.lacroix@castel-clara.com,castel-clara.com,castelclara-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+marina.morcel@facealamerhotel.com,facealamerhotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+marine.averty@lagreedeslandes.com,lagreedeslandes.com,mxa-0021d901.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+marine.b@hotel-courtoisville.com,hotel-courtoisville.com,,,Impossible (résolution MX échouée),Impossible (MX)
+marine.blancheton@destinationspa.fr,destinationspa.fr,mx186.mb1p.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+marine.borel@setclub.com,setclub.com,setclub-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+marine.boulange@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+marine.carretier@bristol-union.com,bristol-union.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [9.234.151.17])",Incertain
+marine.dilun@firstname.com,firstname.com,firstname-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+marine.ecuyer@hyatt.com,hyatt.com,mxa-00114c02.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+marine.grasser@lesjardinsdunideck.fr,lesjardinsdunideck.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [9.234.151.17])",Incertain
+marine.huon@hotel-eskemm.fr,hotel-eskemm.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+marine.larbanois@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+marine.leroux@rivage-thalasso.com,rivage-thalasso.com,,,Impossible (résolution MX échouée),Impossible (MX)
+marine.lorvellec@gmail.com,gmail.com,gmail-smtp-in.l.google.com,Non,Valide (SMTP 250),Valide
+marine.luizi@villalacoste.com,villalacoste.com,villalacoste-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+marine.main@revedailleurs.fr,revedailleurs.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+marine.martius@relaisthalasso.com,relaisthalasso.com,relaisthalasso-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+marine.mescoff@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+marine.moisseron@casadelmar.fr,casadelmar.fr,mail-fr.securemail.pro,Non,Inexistant (SMTP 550),Inexistant
+marine.mollier@relaisthalasso.com,relaisthalasso.com,relaisthalasso-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+marine.moreau@fermesaintsimeon.fr,fermesaintsimeon.fr,aspmx.l.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+marine.papin@sources-caudalie.com,sources-caudalie.com,sourcescaudalie-com01i.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+marine.perrotin@lvrivieraspa.com,lvrivieraspa.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+marine.pralong@lephebus.com,lephebus.com,lephebus-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+marine.renard@domainedelacorniche.com,domainedelacorniche.com,domainedelacorniche-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+marine.rossat@golfhotel.ch,golfhotel.ch,mx-cluster01-hz13.hornetsecurity.ch,Non,Incertain (Code 554 : 5.7.1 <marine.rossat@golfhotel.ch>: Relay access denied),Incertain
+marine.sicard@dorchestercollection.com,dorchestercollection.com,eu-smtp-inbound-2.mimecast.com,Non,Inexistant (SMTP 550),Inexistant
+marine.vuillard@hoteldeshorlogers.ch,hoteldeshorlogers.ch,,,Impossible (résolution MX échouée),Impossible (MX)
+marinella.damele@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <marinella.damele@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+marion.brissonnet@relaisthalasso.com,relaisthalasso.com,relaisthalasso-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+marion.ceccarini@metropole.mc,metropole.mc,,,Impossible (résolution MX échouée),Impossible (MX)
+marion.ceciledurandet@domaineduferret.com,domaineduferret.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+marion.cerutti@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+marion.coquemont@quintessia-resort.com,quintessia-resort.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [9.234.151.17])",Incertain
+marion.coutard@lesormes.com,lesormes.com,lesormes-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+marion.delaplace@domaineduferret.com,domaineduferret.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+marion.deswarte@mamashelter.com,mamashelter.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+marion.forcinal@hotel-liondor.fr,hotel-liondor.fr,smtp.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+marion.gauvin@villacalma.fr,villacalma.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+marion.gouzin@domainedeverchant.com,domainedeverchant.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [9.234.151.17])",Incertain
+marion.grilli@domainedeverchant.com,domainedeverchant.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [9.234.151.17])",Incertain
+marion.lopez@domainedeverchant.com,domainedeverchant.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [9.234.151.17])",Incertain
+marion.marechal@cinqmondes.com,cinqmondes.com,mx02.cloud.vadesecure.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+marion.morello@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <marion.morello@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+marion.mullor@c2-hotel.com,c2-hotel.com,c2hotel-com0e.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+marion.parent@lenessay.com,lenessay.com,lenessay-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+marion.pegouet@aubergeresorts.com,aubergeresorts.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+marion.pelletier@hyatt.com,hyatt.com,mxa-00114c02.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+marion.radenac@relaisthalasso.com,relaisthalasso.com,relaisthalasso-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+marion.s@theoriginalshotels.com,theoriginalshotels.com,theoriginalshotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+marion.teyssier@lamaisonduvillage.fr,lamaisonduvillage.fr,mx00.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+marion.thomas@hestiahotels.com,hestiahotels.com,hestiahotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+marjorie.lecadre@firstname.com,firstname.com,firstname-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+marjorie.pichot@hotelbb.com,hotelbb.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+marjorie.vigroux@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+marleen.cabalt@saintvidal.com,saintvidal.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [9.234.151.17])",Incertain
+marlene.godet@amoria-hotel.com,amoria-hotel.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [9.234.151.17])",Incertain
+marlene.lesellier@beaumier.com,beaumier.com,beaumier-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+marta.hernandez@fourseasons.com,fourseasons.com,mx1.fourseasons.iphmx.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+martha.grollier@miramar-lacigale.com,miramar-lacigale.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [9.234.151.17])",Incertain
+martin.bromley@lechaletmontblanc.com,lechaletmontblanc.com,mail.lechaletmontblanc.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+martin.fleuret@fourseasons.com,fourseasons.com,mx1.fourseasons.iphmx.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+martin.petit@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+martin.prodhomme@fourseasons.com,fourseasons.com,mx1.fourseasons.iphmx.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+martin.simond@grandhoteluriage.com,grandhoteluriage.com,,,Impossible (résolution MX échouée),Impossible (MX)
+marvyn.sarr@fourseasons.com,fourseasons.com,mx1.fourseasons.iphmx.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+marwane.chajara@blhotels.com,blhotels.com,,,Impossible (résolution MX échouée),Impossible (MX)
+mary.grosset@relaisthalasso.com,relaisthalasso.com,relaisthalasso-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+maryline.faucher@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <maryline.faucher@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+marylou.hautot@hotel-lerichebourg.com,hotel-lerichebourg.com,hotellerichebourg-com01c.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+marysol.chatoux@magichotelspa.com,magichotelspa.com,,,Impossible (résolution MX échouée),Impossible (MX)
+mateo.rabille@fairmont.com,fairmont.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+matheo.bonetto@couventdesminimes.com,couventdesminimes.com,couventminimes-com.mail.protection.outlook.comcouventminimes-com.mail.protection.outlook.com,Non,Erreur réseau : [Errno -2] Name or service not known,Erreur (voir Resultat_SMTP)
+matheo.suire@villalacoste.com,villalacoste.com,villalacoste-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+mathieu.billard@gustavecollection.com,gustavecollection.com,gustavecollection-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+mathieu.caillies@cedrebeaune.com,cedrebeaune.com,cedrebeaune-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+mathieu.corre@hyatt.com,hyatt.com,mxa-00114c02.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+mathieu.demas@alexhotel.fr,alexhotel.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+mathieu.lebon@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+mathieu.rouquier@causse-comtal.com,causse-comtal.com,,,Impossible (résolution MX échouée),Impossible (MX)
+mathieu.santori@plagepalace.com,plagepalace.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+mathilde.balade@lesvagueshotel.com,lesvagueshotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+mathilde.boidin@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+mathilde.brottet@lesmediterranees.com,lesmediterranees.com,lesmediterranees-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+mathilde.chatelain@pearlhousekeeping.fr,pearlhousekeeping.fr,mail-fr.securemail.pro,Non,Inexistant (SMTP 550),Inexistant
+mathilde.fleurance@aquatonic-nantes.com,aquatonic-nantes.com,,,Impossible (résolution MX échouée),Impossible (MX)
+mathilde.garibaldi@njj.fr,njj.fr,njj-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+mathilde.gossi@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+mathilde.horrach@castel-clara.com,castel-clara.com,castelclara-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
