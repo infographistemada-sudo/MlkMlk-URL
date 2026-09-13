@@ -1419,3 +1419,103 @@ christophe.b@gerard-bertrand.com,gerard-bertrand.com,gerardbertrand-com01e.mail.
 christophe.echavidre@chainethermale.fr,chainethermale.fr,mail-relay01-inetum.chainethermale.fr,Non,Valide (SMTP 250),Valide
 christophe.kucheida@vallondevalrugues.com,vallondevalrugues.com,digithall.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
 christophe.lencioni@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+christophe.macaigne@intercontinental.com,intercontinental.com,mxb-0036c501.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+christophe.merard@eklohotels.com,eklohotels.com,eklohotels-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+christophe.ougen@recrea.fr,recrea.fr,recrea-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+christophe.pi@evianresort.com,evianresort.com,mxa-000f8e02.gslb.pphosted.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+christophe.thiriet@leyule.com,leyule.com,,,Impossible (résolution MX échouée),Impossible (MX)
+christophe@vitaltech.fr,vitaltech.fr,mx186.m2bp.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+christopher.aguas@mileade.com,mileade.com,mileade-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+christopher.amyot@mdemegeve.com,mdemegeve.com,mdemegeve-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+christopher.ducrocq@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+christopher.morin@tyrosolios.com,tyrosolios.com,,,Impossible (résolution MX échouée),Impossible (MX)
+christopher.newman@domainedeverchant.com,domainedeverchant.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+christopher.soto@ihg.com,ihg.com,mxb-0036c501.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+chrys.bil@ocreazur.com,ocreazur.com,ocreazur-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+chrystele.gobin@spa21.fr,spa21.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+ciji.m@escaledetente.fr,escaledetente.fr,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+cindy.cerejo@laparticuliere.com,laparticuliere.com,mta-gw.infomaniak.ch,Non,Inexistant (SMTP 550),Inexistant
+cindy.couprie@spadelanouere.fr,spadelanouere.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+cindy.d@hotel-saint-paul.fr,hotel-saint-paul.fr,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+cindy.laret@oceaniahotels.com,oceaniahotels.com,oceaniahotels-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+clafontan@zannierhotels.com,zannierhotels.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+claire.aubin@joa.fr,joa.fr,joa-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+claire.baronnier@levalmoret.com,levalmoret.com,mx2.api-and-you.com,Non,Incertain (Code 554 : 5.7.1 <claire.baronnier@levalmoret.com>: Relay access denied),Incertain
+claire.cuau@bestwestern.com,bestwestern.com,bestwestern-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+claire.floquet@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+claire.guislard@lareposee.com,lareposee.com,mx00.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+claire.jacopin@hotel-cite-spa.com,hotel-cite-spa.com,,,Impossible (résolution MX échouée),Impossible (MX)
+claire.lhomme@cinderella-spa.fr,cinderella-spa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+claire.pinquet@villalacoste.com,villalacoste.com,villalacoste-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+claire.simon@fermesaintsimeon.fr,fermesaintsimeon.fr,aspmx.l.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+claire.tillier@naturedeaux.fr,naturedeaux.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+claire@hotelwindsornice.com,hotelwindsornice.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+claire@maisonsmarcon.fr,maisonsmarcon.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+clairemarie.domart@aggh.fr,aggh.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+clamothe@byblos.com,byblos.com,byblos-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+clara.boeffard@hotelbb.com,hotelbb.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+clara.chenu@spalenorvegien.com,spalenorvegien.com,mx00.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+clara.dupuy@gerard-bertrand.com,gerard-bertrand.com,gerardbertrand-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+clara.gaudillot@deepnature.fr,deepnature.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+clara.jouanny@le-grand-hotel-thalasso.com,le-grand-hotel-thalasso.com,,,Impossible (résolution MX échouée),Impossible (MX)
+clara.lahogue@quintessia-resort.com,quintessia-resort.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+clara.livoti@relaisthalasso.com,relaisthalasso.com,relaisthalasso-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+clara.lopin@fourseasons.com,fourseasons.com,mx1.fourseasons.iphmx.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+clara.marcaud@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+clara.martinez@partouche.com,partouche.com,partouche-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+clara.morisset@quintessia-resort.com,quintessia-resort.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+clara.moscatelli@fourseasons.com,fourseasons.com,mx1.fourseasons.iphmx.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+clara.nicollet@evianresort.com,evianresort.com,mxa-000f8e02.gslb.pphosted.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+clara.reygorez@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+clara.savidan@roz-marine-thalasso.com,roz-marine-thalasso.com,q16.altospam.net,Non,Inexistant (SMTP 550),Inexistant
+clarice@lescorallines.com,lescorallines.com,,,Impossible (résolution MX échouée),Impossible (MX)
+clarisse.chieze@lephebus.com,lephebus.com,lephebus-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+clarisse.dupont@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+clarisse.gallopin@hotelducouvent.com,hotelducouvent.com,smtp.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+claudia.garcia@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+claudia.gertou@ventdouest.com,ventdouest.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+claudia.mazy@roussillhotel.com,roussillhotel.com,d64824b.ess.barracudanetworks.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+claudia.saindou@sevenline.fr,sevenline.fr,mxa-00ab3101.gslb.pphosted.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+claudie.cojean@theoriginalshotels.com,theoriginalshotels.com,theoriginalshotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+claudine.grundhammer@hotel-citeroyale.com,hotel-citeroyale.com,hotelciteroyale-com01c.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+clea.rolland@lareserve.com,lareserve.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+clecherf@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+clelia.gesquin@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+clem.deyssard@hotelgrandesrousses.com,hotelgrandesrousses.com,hotelgrandesrousses-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+clemence.blaison@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+clemence.bonfils@hotel-licorne.com,hotel-licorne.com,hotellicorne-com01c.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+clemence.bonnissent@relaisthalasso.com,relaisthalasso.com,relaisthalasso-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+clemence.bougeant@haiedesgranges.com,haiedesgranges.com,,,Impossible (résolution MX échouée),Impossible (MX)
+clemence.colinot@rivage-hotel.fr,rivage-hotel.fr,mailhost.groupe-sofival.com,Non,Timeout (le port 25 est probablement bloqué par votre réseau/hébergeur),Erreur (voir Resultat_SMTP)
+clemence.duval@letreflehotel.com,letreflehotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+clemence.guitton@domainedelocguenole.com,domainedelocguenole.com,,,Impossible (résolution MX échouée),Impossible (MX)
+clemence.mercuriot@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+clemence.renault@lescimesbleues.com,lescimesbleues.com,spool.mail.gandi.net,Non,Inexistant (SMTP 550),Inexistant
+clemence.savary@aquatonic-nantes.com,aquatonic-nantes.com,,,Impossible (résolution MX échouée),Impossible (MX)
+clemence.thoby@ca-bh.com,ca-bh.com,qiye163mx01.mxmail.netease.com,Non,Incertain (Code 551 : 5.1.1 recipient is not exist),Incertain
+clemence.vergnaud@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <clemence.vergnaud@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+clemence.wujek@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+clement.ayache@le-grand-hotel-thalasso.com,le-grand-hotel-thalasso.com,,,Impossible (résolution MX échouée),Impossible (MX)
+clement.bellot@hotel-cep-beaune.com,hotel-cep-beaune.com,mx03.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
+clement.besnard@miramar-lacigale.com,miramar-lacigale.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+clement.boechat@hotelzoologie.com,hotelzoologie.com,hotelzoologie-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+clement.couillet@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <clement.couillet@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+clement.flais@hotelbelleplage.fr,hotelbelleplage.fr,hotelbelleplage-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+clement.lebas@equalia.fr,equalia.fr,equalia-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+clement.marie@lasavoyarde.fr,lasavoyarde.fr,mx01.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+clement.menardo@fourseasons.com,fourseasons.com,mx1.fourseasons.iphmx.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+clement.petit@domaineduferret.com,domaineduferret.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+clementine.a@bains-epsom.fr,bains-epsom.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+clementine.chauveau@rivabella.com,rivabella.com,mail.h-email.net,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+clementine.cornu@thalazur.fr,thalazur.fr,mx3.coaxis.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+clementine.haddou@hotelducouvent.com,hotelducouvent.com,smtp.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+clementine.ledoux@miramar-lacigale.com,miramar-lacigale.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+clementine.s@gerard-bertrand.com,gerard-bertrand.com,gerardbertrand-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+cleray@thermesmarins.com,thermesmarins.com,,,Impossible (résolution MX échouée),Impossible (MX)
+clesage@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+client.relation@roches-blanches-cassis.com,roches-blanches-cassis.com,rochesblanchescassis-com01e1i.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+cloe.alais@abbaye-de-talloires.com,abbaye-de-talloires.com,,,Impossible (résolution MX échouée),Impossible (MX)
+cloe.carpentier@hotelsaintnicolas.fr,hotelsaintnicolas.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.29.188.149])",Incertain
+cloe.letournel@terredepastel.com,terredepastel.com,mail.terredepastel.com,Non,Inexistant (SMTP 550),Inexistant
+cloe.pacchioni@leslodgessaintevictoire.com,leslodgessaintevictoire.com,mx1.api-and-you.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+clothilde.clerc@vallondevalrugues.com,vallondevalrugues.com,digithall.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
