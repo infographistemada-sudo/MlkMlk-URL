@@ -1,0 +1,5 @@
+Email,Domaine,Serveur_MX,Catch_All,Resultat_SMTP,Statut_Final
+[E-mail personnel à chercher (ex: gmail.com)],,,,,Ignoré (format invalide)
+a.bouchioua@azureva-vacances.com,azureva-vacances.com,smtp.google.com,Non,Inexistant (SMTP 550),Inexistant
+a.boulin@snow-group.com,snow-group.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.127.247.148])",Incertain
+a.cottenceau@joa.fr,joa.fr,joa-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
