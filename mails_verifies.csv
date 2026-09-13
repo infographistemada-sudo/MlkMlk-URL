@@ -3,3 +3,19 @@ Email,Domaine,Serveur_MX,Catch_All,Resultat_SMTP,Statut_Final
 a.bouchioua@azureva-vacances.com,azureva-vacances.com,smtp.google.com,Non,Inexistant (SMTP 550),Inexistant
 a.boulin@snow-group.com,snow-group.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.127.247.148])",Incertain
 a.cottenceau@joa.fr,joa.fr,joa-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+abarello@lenegresco.com,lenegresco.com,lenegresco-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+adele.verdier@capfun.com,capfun.com,capfun-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+adrien@calauma.com,calauma.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+agnes.tristant@ligneetharmonie.fr,ligneetharmonie.fr,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.193.135])",Incertain
+alexandra.papin@lemezo.fr,lemezo.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.193.135])",Incertain
+alexandra.parrot@zenaddict.fr,zenaddict.fr,spool.mail.gandi.net,Non,Inexistant (SMTP 550),Inexistant
+alexandra.winterstein@lesvoilesdugrandlarge.com,lesvoilesdugrandlarge.com,mx02.cloud.vadesecure.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alice.mennetrey@saone-valley.fr,saone-valley.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+alina.bondarenco@jfg-clinic.com,jfg-clinic.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+aline.magaud@bretonniere.com,bretonniere.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.193.135])",Incertain
+alizee@lemomentheadspa.fr,lemomentheadspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+ambre.buffet@milleetunbienetre.fr,milleetunbienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+anaelle.aubry@campingmahana.fr,campingmahana.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+anais.laissus@sourcesdequilibre.fr,sourcesdequilibre.fr,Mx-mibc-fr-02.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
+anais.zaytzeff@edendessens.fr,edendessens.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.182.193.135])",Incertain
+anais@studiosoham.fr,studiosoham.fr,,,Impossible (résolution MX échouée),Impossible (MX)
