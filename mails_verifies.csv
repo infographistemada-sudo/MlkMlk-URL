@@ -6320,3 +6320,103 @@ alizee.carriere@cotesaintjacques.com,cotesaintjacques.com,aspmx.l.google.com,Non
 katia.hauer@spa.fr,spa.fr,ASPMX.L.GOOGLE.COM,Non,Inexistant (SMTP 550),Inexistant
 corentin.demolliens@fitandspa.fr,fitandspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
 martine.kopp@lesbainspheniciens.fr,lesbainspheniciens.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+yasmim.souza@hotel-marinca.com,hotel-marinca.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.117.37])",Incertain
+christian.mikulka@dhevarispa.at,dhevarispa.at,mx04.secure-mailgate.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+melita.amboka@hotel-crystal.fr,hotel-crystal.fr,mx1.api-and-you.com,Non,Inexistant (SMTP 550),Inexistant
+tina.pippig@linsbergasia.at,linsbergasia.at,mx01.hornetsecurity.com,Non,Valide (SMTP 250),Valide
+celine.goncalves@spa.fr,spa.fr,ASPMX.L.GOOGLE.COM,Non,Inexistant (SMTP 550),Inexistant
+jhonalyn.minion@lareserve-paris.com,lareserve-paris.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+gaetan.guignard@roncemay.com,roncemay.com,roncemay-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+chengfen.chen@shofahspa.ch,shofahspa.ch,,,Impossible (résolution MX échouée),Impossible (MX)
+cedric.jourdain@spa.fr,spa.fr,ASPMX.L.GOOGLE.COM,Non,Inexistant (SMTP 550),Inexistant
+alex.liska@linsbergasia.at,linsbergasia.at,mx01.hornetsecurity.com,Non,Incertain (Code 554 : 5.7.1 <alex.liska@linsbergasia.at>: Relay access denied),Incertain
+nina.reffet@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+nathalia.pierrealexandre@lespaplessis.fr,lespaplessis.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+jeanquentin.olegine@hotel-lafayette.com,hotel-lafayette.com,spool.mail.gandi.net,Non,Inexistant (SMTP 550),Inexistant
+ines.wohlmuther@pichlarn.at,pichlarn.at,mx01.mysug.de,Non,Erreur réseau : [Errno -2] Name or service not known,Erreur (voir Resultat_SMTP)
+maxime.vailleau@cotesaintjacques.com,cotesaintjacques.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+laetitia.coumar@relais-spa.com,relais-spa.com,mailhost.reside-etudes.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+hanene.achacha@pavillon-de-la-reine.com,pavillon-de-la-reine.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.117.37])",Incertain
+yenny.ambrosio@relais-malmaison.com,relais-malmaison.com,,,Impossible (résolution MX échouée),Impossible (MX)
+sanker.rattinam@relais-spa.com,relais-spa.com,mailhost.reside-etudes.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+michael.leukauf@whitespa.at,whitespa.at,w01f3660.kasserver.com,Non,Inexistant (SMTP 550),Inexistant
+doris.leukauf@whitespa.at,whitespa.at,w01f3660.kasserver.com,Non,Inexistant (SMTP 550),Inexistant
+stecy.verbeke@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <stecy.verbeke@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+flavie.doussot@hotel-alparena.com,hotel-alparena.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+mattia.vitali@cotesaintjacques.com,cotesaintjacques.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+dany.ramtohul@movenpick.com,movenpick.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <dany.ramtohul@movenpick.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+damien.garibal@lebellune.com,lebellune.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.117.37])",Incertain
+tenzin.angetsang@leroch-hotel.com,leroch-hotel.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.117.37])",Incertain
+tom.martins@roncemay.com,roncemay.com,roncemay-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+denis.colsenet@cocooningspa.fr,cocooningspa.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.117.37])",Incertain
+contact@hightechbbspa.fr,hightechbbspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+anjali.sinnan@creolebeach.com,creolebeach.com,creolebeach-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+leia.cogerino@cotesaintjacques.com,cotesaintjacques.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+jeanpierre.sagna@hotel-licorne.com,hotel-licorne.com,hotellicorne-com01c.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+rudy.thumerelle@hotelcosmos.fr,hotelcosmos.fr,mail.idp365.net,Non,Timeout (le port 25 est probablement bloqué par votre réseau/hébergeur),Erreur (voir Resultat_SMTP)
+sandra.anger@bo-resort.com,bo-resort.com,boresort-com0e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+isabelle.bouzy@relais-spa.com,relais-spa.com,mailhost.reside-etudes.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+alexia.mendes@bloomhousehotel.com,bloomhousehotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+jennifer.marchand@etangsdecorot.com,etangsdecorot.com,mx.stackmail.com,Non,Inexistant (SMTP 550),Inexistant
+gwenaelle.gallouze@resortsthermesspa.fr,resortsthermesspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+sophie.defremery@lesdanslenoir.com,lesdanslenoir.com,,,Impossible (résolution MX échouée),Impossible (MX)
+julien.lievre@castelmaintenon.com,castelmaintenon.com,castelmaintenon-com.mail.protection.outlook.com,Non,"Incertain (Code 451 : 4.4.4 Mail received as unauthenticated, incoming to a recipient domain configured in a hosted tenant which has no mail-enabled subscriptions. ATTR5 [PA3PEPF000089BA.FRAP264.PROD.OUTLOOK.COM 2026-09-14T02:11:50.316Z 08DF11C23A35FA0B])",Incertain
+siem.ghlis@zenattitudespa.fr,zenattitudespa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+paula.salvador@lareserve-paris.com,lareserve-paris.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+yohann.piednoel@hotel-lechapitre.com,hotel-lechapitre.com,mta-gw.infomaniak.ch,Non,Inexistant (SMTP 550),Inexistant
+lea.romero@monspatradition.fr,monspatradition.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+helena.martins@leprieuredessources.com,leprieuredessources.com,alderaan.kyxar.fr,Non,Incertain (Code 450 : 4.7.1 <helena.martins@leprieuredessources.com>: Recipient address rejected: Greylisted for 5 minutes),Incertain
+angela.choi@lareserve-paris.com,lareserve-paris.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+lasantha.leema@regalreseau.com,regalreseau.com,mx.zoho.com,Non,Inexistant (SMTP 550),Inexistant
+contact@saphirthaispa.fr,saphirthaispa.fr,37-221-65-117.cprapid.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+antoine.jouan@ledamantin.com,ledamantin.com,ledamantin-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+barbara.colomb@grandhotel-gerardmer.com,grandhotel-gerardmer.com,ex2.mail.ovh.net,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+marie.souris@spa.fr,spa.fr,ASPMX.L.GOOGLE.COM,Non,Inexistant (SMTP 550),Inexistant
+amelie.martin@hotel-lesjonquilles.fr,hotel-lesjonquilles.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+sylvie.reinermann@spa.fr,spa.fr,ASPMX.L.GOOGLE.COM,Non,Inexistant (SMTP 550),Inexistant
+commercial@hotelcosmos.fr,hotelcosmos.fr,mail.idp365.net,Non,Timeout (le port 25 est probablement bloqué par votre réseau/hébergeur),Erreur (voir Resultat_SMTP)
+stephane.lebat@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <stephane.lebat@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+timote.bordeaux@cotesaintjacques.com,cotesaintjacques.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+emeline.gaufreteau@shofahspa.ch,shofahspa.ch,,,Impossible (résolution MX échouée),Impossible (MX)
+christopher.leduc@cotesaintjacques.com,cotesaintjacques.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+prescillia.w@hotel-lechapitre.com,hotel-lechapitre.com,mta-gw.infomaniak.ch,Non,Inexistant (SMTP 550),Inexistant
+soafara.razafiharison@sabaispa.at,sabaispa.at,,,Impossible (résolution MX échouée),Impossible (MX)
+celine.duarte@terredesambres.fr,terredesambres.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+remy.fournier@relais-spa.com,relais-spa.com,mailhost.reside-etudes.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+flora.pinto@bois-dormant.com,bois-dormant.com,edge1.shd-cloud.fr,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+kabil.djanaguiramane@relais-spa.com,relais-spa.com,mailhost.reside-etudes.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+manu.dufait@spatherapie.fr,spatherapie.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+valerie.marchandise@moulindestempliers.com,moulindestempliers.com,,,Impossible (résolution MX échouée),Impossible (MX)
+daniel.koch@tennerhof.com,tennerhof.com,tennerhof-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+dorian.giraud@sofitel.com,sofitel.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <dorian.giraud@sofitel.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+julia.sengthaler@geinberg.com,geinberg.com,,,Impossible (résolution MX échouée),Impossible (MX)
+jerome.bats@chaismonnet.com,chaismonnet.com,,,Impossible (résolution MX échouée),Impossible (MX)
+marc.lecomte@lareserve-paris.com,lareserve-paris.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+louise.renault@lareserve-paris.com,lareserve-paris.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+aurelie.beuvin@relais-malmaison.com,relais-malmaison.com,,,Impossible (résolution MX échouée),Impossible (MX)
+catherine.mariano@peninsulagrand.com,peninsulagrand.com,mail.peninsulagrand.com,Non,Inexistant (SMTP 550),Inexistant
+charline.dubreuille@chaismonnet.com,chaismonnet.com,,,Impossible (résolution MX échouée),Impossible (MX)
+anthony.onezime@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <anthony.onezime@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+julien.cantot@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <julien.cantot@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+viktoriia.patlan@dahu.com,dahu.com,mx3.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.117.37])",Incertain
+steven.gomez@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <steven.gomez@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+olivia.ofner@almanachotels.com,almanachotels.com,almanachotels-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+contact@spalacdozen.fr,spalacdozen.fr,mx01.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+aby.paye@premierelady.fr,premierelady.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+lucas.biancotto@villacastellane.com,villacastellane.com,,,Impossible (résolution MX échouée),Impossible (MX)
+james.welch@leshotelsbaverez.com,leshotelsbaverez.com,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.117.37])",Incertain
+louise.gane@spaoceane.fr,spaoceane.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+mohamed.ancien@goldentulipsophiaantipolis.com,goldentulipsophiaantipolis.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+kimi.mimil@cotesaintjacques.com,cotesaintjacques.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+tom.vejux@roncemay.com,roncemay.com,roncemay-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+chantale.testet@spa.fr,spa.fr,ASPMX.L.GOOGLE.COM,Non,Inexistant (SMTP 550),Inexistant
+hanane.bouariss@urbanspa.fr,urbanspa.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.117.37])",Incertain
+raouia.takouli@ilotspa.fr,ilotspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+melody.armand@naiaspa.fr,naiaspa.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.117.37])",Incertain
+fedia.bouzazi@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <fedia.bouzazi@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+lovensky.jean@creolebeach.com,creolebeach.com,creolebeach-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+anais.debruyne@hartwell-house.co.uk,hartwell-house.co.uk,,,Impossible (résolution MX échouée),Impossible (MX)
+fatima.ennaji@lamphitritepalace.com,lamphitritepalace.com,mail.lamphitritepalace.com,Non,Timeout (le port 25 est probablement bloqué par votre réseau/hébergeur),Erreur (voir Resultat_SMTP)
+hugo.debaene@loisium.com,loisium.com,loisium-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+hima.ramses@lemathurin.com,lemathurin.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.117.37])",Incertain
+sharon.santahueso@fonteverdespa.com,fonteverdespa.com,fonteverdespa-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
