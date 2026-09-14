@@ -5620,3 +5620,103 @@ manon.voisin@thalgo.com,thalgo.com,thalgo-com.mail.protection.outlook.com,Non,In
 patrick.roure@lareserve-geneve.com,lareserve-geneve.com,mxb-008f2201.gslb.pphosted.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
 benjamin.petit@bleuhotel.fr,bleuhotel.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.118.29.97])",Incertain
 anna.rizzelli@sogevab.com,sogevab.com,mx01.hornetsecurity.com,Non,Inexistant (SMTP 550),Inexistant
+laurent.ajas@vilavitaparc.com,vilavitaparc.com,vilavitaparc-com.mail.eo.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+chloe.fieve@hostellerielafarandole.com,hostellerielafarandole.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.188.87.67])",Incertain
+clement.degiovanni@helios-spa.com,helios-spa.com,mail.helios-spa.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+timothee.tissotguerraz@lareserve-ramatuelle.com,lareserve-ramatuelle.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+xavier.simon@relais-spa.com,relais-spa.com,mailhost.reside-etudes.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+marie.mrtn@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <marie.mrtn@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+thomas.pezeril@villalacoste.com,villalacoste.com,villalacoste-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+laetitia.cabrol@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+maria.zemenkova@lareserve-ramatuelle.com,lareserve-ramatuelle.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+audrey.camara@latypiquespa.fr,latypiquespa.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.188.87.67])",Incertain
+delphine.hays@masdelasenancole.com,masdelasenancole.com,,,Impossible (résolution MX échouée),Impossible (MX)
+fabien.bassi@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+mikael.macaluso@kispacehotel.com,kispacehotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+matthieu.thomas@lareserve-ramatuelle.com,lareserve-ramatuelle.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+caroline.dufour@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+julie.raimbault@aulagonspa.fr,aulagonspa.fr,mta-gw.infomaniak.ch,Non,Inexistant (SMTP 550),Inexistant
+christonphe.rackin@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+alexis.feliciano@chaismonnet.com,chaismonnet.com,,,Impossible (résolution MX échouée),Impossible (MX)
+aurelia.aubert@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+geraldine.raviart@hilton.com,hilton.com,hilton-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+florence.marin@sweetluxebeauty.fr,sweetluxebeauty.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+anandra.sulty@chateauberne.com,chateauberne.com,vade-mx-fr02.hornetsecurity.com,Non,Incertain (Code 554 : 5.5.4 Your IP address 52.188.87.67 has a bad reputation. To unblock visit https://cloud-security.net/unblock?blocked_ip=52.188.87.67&reason=6&qid=NOQUEUE),Incertain
+annabelle.chretien@maysonsibuet.com,maysonsibuet.com,,,Impossible (résolution MX échouée),Impossible (MX)
+marine.levaillant@lebarthelemyhotel.com,lebarthelemyhotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+alexis.durso@hotelducastellet.com,hotelducastellet.com,vade-mx-fr01.hornetsecurity.com,Non,Incertain (Code 554 : 5.5.4 Your IP address 52.188.87.67 has a bad reputation. To unblock visit https://cloud-security.net/unblock?blocked_ip=52.188.87.67&reason=6&qid=NOQUEUE),Incertain
+juliette.devillepoix@lesmatinsdeparis.com,lesmatinsdeparis.com,lesmatinsdeparis-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+gregory.v@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+pauline.nicolas@lareserve-ramatuelle.com,lareserve-ramatuelle.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+stephanie.renaud@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <stephanie.renaud@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+emilie.fourlin@thalasso-issambres.com,thalasso-issambres.com,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [52.188.87.67] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/52.188.87.67)",Incertain
+margaux.pequery@lavilla10.com,lavilla10.com,lavilla10-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+julien.nadeau@generaldelbee.fr,generaldelbee.fr,mta-gw.infomaniak.ch,Non,Inexistant (SMTP 550),Inexistant
+raphael.toquart@relais-spa.com,relais-spa.com,mailhost.reside-etudes.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+scihem.boujida@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <scihem.boujida@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+angel.divovic@hotel-lesseptfontaines.com,hotel-lesseptfontaines.com,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [52.188.87.67] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/52.188.87.67)",Incertain
+claudine.ginsburg@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+louis.perret@lareserve-ramatuelle.com,lareserve-ramatuelle.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+antoine.saveuse@villacosy.com,villacosy.com,mx00.1and1.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+mariealix.royrichard@masdegarrigon.com,masdegarrigon.com,masdegarrigon-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+julie.brauer@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+manon.alexis@clos-saint-michel.fr,clos-saint-michel.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.188.87.67])",Incertain
+fabiola.rozand@vallondevalrugues.com,vallondevalrugues.com,digithall.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
+elise.cirodde@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+jasmine.hogg@hotelducastellet.com,hotelducastellet.com,vade-mx-fr01.hornetsecurity.com,Non,Incertain (Code 554 : 5.5.4 Your IP address 52.188.87.67 has a bad reputation. To unblock visit https://cloud-security.net/unblock?blocked_ip=52.188.87.67&reason=6&qid=NOQUEUE),Incertain
+angele.gregoire@ancremarine.com,ancremarine.com,mail.ancremarine.com,Non,Inexistant (SMTP 550),Inexistant
+gabriel.c@hotel-marinca.com,hotel-marinca.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.188.87.67])",Incertain
+jeanchristophe.portella@esterel-forme.fr,esterel-forme.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+jules.fantovamarc@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+gaelle.defaye@chateau-augerville.com,chateau-augerville.com,chateauaugerville-com01i.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+julien.coulomb@lareserve-ramatuelle.com,lareserve-ramatuelle.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+abdelkader.tadjer@meauxspa77.fr,meauxspa77.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+solene.monteleon@lareserve-paris.com,lareserve-paris.com,mxa-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+ludovic@dominedejoinville.fr,dominedejoinville.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+olivia.demorat@lumeaspa.fr,lumeaspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+stephane.rouaud@chateauvalmer.com,chateauvalmer.com,vade-mx-fr01.hornetsecurity.com,Non,Incertain (Code 554 : 5.5.4 Your IP address 52.188.87.67 has a bad reputation. To unblock visit https://cloud-security.net/unblock?blocked_ip=52.188.87.67&reason=6&qid=NOQUEUE),Incertain
+mathilde.argiolu@unique-hotel-spa.com,unique-hotel-spa.com,,,Impossible (résolution MX échouée),Impossible (MX)
+camille.goliath@naturalspainstitut.fr,naturalspainstitut.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+celia.chiffoleau@dayspa.fr,dayspa.fr,dayspa-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+marine.silly@lesbories.com,lesbories.com,,,Impossible (résolution MX échouée),Impossible (MX)
+aurelie.deharbe@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+caroline.gelli@lareserve-ramatuelle.com,lareserve-ramatuelle.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+contact@chateaudesalettes.com,chateaudesalettes.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.188.87.67])",Incertain
+marion.collin@relais-malmaison.com,relais-malmaison.com,,,Impossible (résolution MX échouée),Impossible (MX)
+oleksandra.magdii@spa-beaute.fr,spa-beaute.fr,mail.spa-beaute.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+suzanne.le@lareserve-paris.com,lareserve-paris.com,mxa-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+audrey.plegades@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+amelie.accard@lavieilleferme.com,lavieilleferme.com,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [52.188.87.67] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/52.188.87.67)",Incertain
+flora.blanc@baumaniere.com,baumaniere.com,mx-mibc-fr-05.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
+andrea.locicero@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+sandra.fontana@ihg.com,ihg.com,mxa-0036c501.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+marc.granet@relais-spa.com,relais-spa.com,mailhost.reside-etudes.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+anna.bruni@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+meriza.pragassa@clubmed.com,clubmed.com,mxb-001c6401.gslb.pphosted.com,Non,Valide (SMTP 250),Valide
+corinne.ferlain@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+penelope.defayard@lv-rivieraspa.fr,lv-rivieraspa.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.188.87.67])",Incertain
+nelson.cristina@relais-spa.com,relais-spa.com,mailhost.reside-etudes.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+alice.nunes@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+stephanie.arrive@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+charline.rouby@serenityheadspa.fr,serenityheadspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+elodie.bressanges@ozenspa.fr,ozenspa.fr,mail-fr.securemail.pro,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+chantal.olivier@relais-spa.com,relais-spa.com,mailhost.reside-etudes.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+alizee.picaut@lareserve-ramatuelle.com,lareserve-ramatuelle.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+nancy.dinadeane@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+charlotte.masset@coquillade.fr,coquillade.fr,coquillade-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+fanny.cordonnier@villacosy.com,villacosy.com,mx00.1and1.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+pierre.pereira@lareserve-ramatuelle.com,lareserve-ramatuelle.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+thomas.evanno@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+sandra.slamkova@lareserve-ramatuelle.com,lareserve-ramatuelle.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+candela.quiroga@lareserve-ramatuelle.com,lareserve-ramatuelle.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+leandro.diasdeoliveira@villacosy.com,villacosy.com,mx00.1and1.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+valentin.harou@lareserve-ramatuelle.com,lareserve-ramatuelle.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+sandrine.gersdoumenge@lesbrumesdemasaline.fr,lesbrumesdemasaline.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+leonie.lechevallier@ancremarine.com,ancremarine.com,mail.ancremarine.com,Non,Inexistant (SMTP 550),Inexistant
+perla.ringeval@otheraspa.fr,otheraspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+arnaud.mangin@lareserve-ramatuelle.com,lareserve-ramatuelle.com,mxb-008f2201.gslb.pphosted.com,Non,Inexistant (SMTP 550),Inexistant
+manon.rebillard@hotel-lesseptfontaines.com,hotel-lesseptfontaines.com,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [52.188.87.67] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/52.188.87.67)",Incertain
+laure.maria@edcspamanagement.fr,edcspamanagement.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+julien.dagois@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+thibaut.thiriet@hotel-rabelais.com,hotel-rabelais.com,,,Impossible (résolution MX échouée),Impossible (MX)
+salma.gabla@vatel.fr,vatel.fr,vatel-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
