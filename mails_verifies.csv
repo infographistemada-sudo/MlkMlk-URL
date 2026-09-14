@@ -6620,3 +6620,100 @@ salome.bouyssonnade@dorchestercollection.com,dorchestercollection.com,eu-smtp-in
 stephanie.jacquot@lapaillote.com,lapaillote.com,,,Impossible (résolution MX échouée),Impossible (MX)
 xteixidobusto@partouche.com,partouche.com,partouche-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
 matthieu.abbo@elegancia-hotels.com,elegancia-hotels.com,eleganciahotels-com02c.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+k.koffiberly@hotelnational.com,hotelnational.com,,,Impossible (résolution MX échouée),Impossible (MX)
+pierre.lebrun@machefert.com,machefert.com,machefert-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+stephanie.pinceloup@bsignaturehotels.com,bsignaturehotels.com,smtp1.besse.fr,Non,Valide (SMTP 250),Valide
+ines.beauvais@dorchestercollection.com,dorchestercollection.com,eu-smtp-inbound-1.mimecast.com,Non,Inexistant (SMTP 550),Inexistant
+patricia.collomb@hotelgrandesrousses.com,hotelgrandesrousses.com,hotelgrandesrousses-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+romain.gravelle@belmont-paris-hotel.com,belmont-paris-hotel.com,belmontparishotel-com01i1c.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+johanna.trottain@hotels-preference.com,hotels-preference.com,,,Impossible (résolution MX échouée),Impossible (MX)
+salman.shabir@hotelbalzac.com,hotelbalzac.com,,,Impossible (résolution MX échouée),Impossible (MX)
+bertrand.caillet@worldwide-hospitality.com,worldwide-hospitality.com,,,Impossible (résolution MX échouée),Impossible (MX)
+hugo.mariesainte@hyatt.com,hyatt.com,mxa-00114c02.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+daphne@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+flora.lemonnier@hively-hospitality.com,hively-hospitality.com,mx1.coaxis.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+avuattoux@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+valentin.langlois@rosewoodhotels.com,rosewoodhotels.com,rosewoodhotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+david.baptista@hotelbabel.fr,hotelbabel.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+lucas.coeffard@kmhotels.com,kmhotels.com,kmhotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+mathias.marques@lesjardinsdesophie.fr,lesjardinsdesophie.fr,mail.lesjardinsdesophie.fr,Non,"Expéditeur rejeté par le serveur (code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.81.183.82]) - vérification impossible",Erreur (voir Resultat_SMTP)
+ludovic.r@wiziu.com,wiziu.com,wiziu-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+kanen.cundapah@campanile.com,campanile.com,campanile-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+ferdaous.akhdim@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+ophelie.coupe@hotelcasimir.fr,hotelcasimir.fr,mail.hotelcasimir.fr,Non,"Expéditeur rejeté par le serveur (code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.81.183.82]) - vérification impossible",Erreur (voir Resultat_SMTP)
+pierrelouis.coche@disney.com,disney.com,disney-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+constance.raffard@dorchestercollection.com,dorchestercollection.com,eu-smtp-inbound-1.mimecast.com,Non,Inexistant (SMTP 550),Inexistant
+moncef.dada@monsieurgeorge.com,monsieurgeorge.com,monsieurgeorge-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+cedric.debraux@desfossey.com,desfossey.com,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [20.81.183.82] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/20.81.183.82)",Incertain
+margaux.panier@madamereve.com,madamereve.com,madamereve-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+amel.b@zenitude-groupe.com,zenitude-groupe.com,protect.oci.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+benjamin.buignet@rosewoodhotels.com,rosewoodhotels.com,rosewoodhotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+pierre.chtepa@espritdefrance.com,espritdefrance.com,espritdefrance-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+amelia.belin@ligneehotels.com,ligneehotels.com,,,Impossible (résolution MX échouée),Impossible (MX)
+pauline.lachaize@villacolette.com,villacolette.com,villacolette-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+haniella.dao@damedesarts.com,damedesarts.com,damedesarts-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alexandra.gauguin@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <alexandra.gauguin@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+paulin.izoret@dorchestercollection.com,dorchestercollection.com,eu-smtp-inbound-1.mimecast.com,Non,Inexistant (SMTP 550),Inexistant
+audrey.allam@hotelfabric.com,hotelfabric.com,hotelfabric-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+lea.decloux@lesherpa.com,lesherpa.com,aspmx.l.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+sixtine.delamorinerie@obviohotels.com,obviohotels.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.81.183.82])",Incertain
+noemie.marechal@hotelmarignan.fr,hotelmarignan.fr,hotelmarignan-fr.mail.eo.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+abderrahim.aitbenlahcen@lamaisonchampselysees.com,lamaisonchampselysees.com,mail.lamaisonc.com.alinto.com,Non,Timeout (le port 25 est probablement bloqué par votre réseau/hébergeur),Erreur (voir Resultat_SMTP)
+younes.karbid@lxrhotels.com,lxrhotels.com,,,Impossible (résolution MX échouée),Impossible (MX)
+laurent.simatic@rosewoodhotels.com,rosewoodhotels.com,rosewoodhotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+lucie.edouard@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+leila.elhaya@espritdefrance.com,espritdefrance.com,espritdefrance-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+julien.gehin@gvh.fr,gvh.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+ophelie.maccaferri@hyatt.com,hyatt.com,mxa-00114c02.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+cecilia.lambert@hotelvictoria.com,hotelvictoria.com,mailsecurity.ivision.fr,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+hassan.ajgod@hotel-paris-montparnasse.com,hotel-paris-montparnasse.com,,,Impossible (résolution MX échouée),Impossible (MX)
+andres.j@dorchestercollection.com,dorchestercollection.com,eu-smtp-inbound-1.mimecast.com,Non,Inexistant (SMTP 550),Inexistant
+florent.bonnici@hotelvilladespres.com,hotelvilladespres.com,,,Impossible (résolution MX échouée),Impossible (MX)
+carla.a@dorchestercollection.com,dorchestercollection.com,eu-smtp-inbound-1.mimecast.com,Non,Inexistant (SMTP 550),Inexistant
+clementine.gaucher@grandhoteldupalaisroyal.com,grandhoteldupalaisroyal.com,mail.grandhoteldupalaisroyal.com,Non,Timeout (le port 25 est probablement bloqué par votre réseau/hébergeur),Erreur (voir Resultat_SMTP)
+melanie.lefebvre@dorchestercollection.com,dorchestercollection.com,eu-smtp-inbound-1.mimecast.com,Non,Inexistant (SMTP 550),Inexistant
+elodie.magneney@lesjardinsdeiffel.com,lesjardinsdeiffel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+clara.karciauskas@thegatecollection.com,thegatecollection.com,mx-01-eu-west-1.prod.hydra.sophos.com,Non,Incertain (Code 554 : 5.7.1 Service unavailable; Client host [20.81.183.82] is blacklisted. Visit https://www.sophos.com/en-us/support/ip-address-lookup/?ip=20.81.183.82 to request delisting),Incertain
+eftikar.munier@rosewoodhotels.com,rosewoodhotels.com,rosewoodhotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+david.refin@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+augustin.clay@ritzparis.com,ritzparis.com,mxb-00930d01.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+clara.vanmeerbeck@grandhoteldupalaisroyal.com,grandhoteldupalaisroyal.com,mail.grandhoteldupalaisroyal.com,Non,Timeout (le port 25 est probablement bloqué par votre réseau/hébergeur),Erreur (voir Resultat_SMTP)
+nicolas.lejeune@chalgrinhotel.com,chalgrinhotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+marie.cornibe@leshotelsbaverez.com,leshotelsbaverez.com,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.81.183.82])",Incertain
+lidia.maroto@mobhotel.com,mobhotel.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+cecile.hidalgo@palace.fr,palace.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+gauthier.lepaul@laresidence.fr,laresidence.fr,mail.laresidence.fr,Non,Inexistant (SMTP 550),Inexistant
+mael.beaujouan@thegatecollection.com,thegatecollection.com,mx-01-eu-west-1.prod.hydra.sophos.com,Non,Incertain (Code 554 : 5.7.1 Service unavailable; Client host [20.81.183.82] is blacklisted. Visit https://www.sophos.com/en-us/support/ip-address-lookup/?ip=20.81.183.82 to request delisting),Incertain
+camille.laplace@leshotelsdeparis.com,leshotelsdeparis.com,leshotelsdeparis-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+aissata.ba@rosewoodhotels.com,rosewoodhotels.com,rosewoodhotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+lea.grolet@fontmourier.com,fontmourier.com,,,Impossible (résolution MX échouée),Impossible (MX)
+maricel.soriano@astotel.com,astotel.com,astotel-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+lovenjoy.sarmiento@astotel.com,astotel.com,astotel-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+julien.delcambre@cerise-hotels-residences.com,cerise-hotels-residences.com,cerisehotelsresidences-com01e1c.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alexia.caicedo@hoteldalila.com,hoteldalila.com,hoteldalila-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alifzisan.sk@lesbasrupts.com,lesbasrupts.com,,,Impossible (résolution MX échouée),Impossible (MX)
+shana.bruel@maysonsibuet.com,maysonsibuet.com,,,Impossible (résolution MX échouée),Impossible (MX)
+theo.kacmann@hoteldaubusson.com,hoteldaubusson.com,hoteldaubusson-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+nicolas.bourlon@lareserve-gerardmer.com,lareserve-gerardmer.com,,,Impossible (résolution MX échouée),Impossible (MX)
+nicolas.kukovski@hotellutetia.com,hotellutetia.com,hotellutetia-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+isaac.paul@hotelmaximparis.com,hotelmaximparis.com,,,Impossible (résolution MX échouée),Impossible (MX)
+marylou.peiffert@lasouveraine.fr,lasouveraine.fr,mutu07.publigo.fr,Non,Incertain (Code 554 : 5.7.1 Service unavailable; Client host [20.81.183.82] blocked using b.barracudacentral.org; http://www.barracudanetworks.com/reputation/?pr=1&ip=20.81.183.82),Incertain
+veronique.ellinger@hotelsaintgregoire.com,hotelsaintgregoire.com,,,Impossible (résolution MX échouée),Impossible (MX)
+laura.durozey@lilyofthevalley.com,lilyofthevalley.com,lilyofthevalley-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+tristan.delaporte@samanearesort.com,samanearesort.com,,,Impossible (résolution MX échouée),Impossible (MX)
+sonja.kuikstra@lendroitwellness.fr,lendroitwellness.fr,lendroitwellness-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+lena.bibard@zannier.com,zannier.com,zannier-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+nika.pavlovic@dorint.com,dorint.com,mx0161.ppsmtp.de,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+laura.picci@nescens.com,nescens.com,nescens-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+kevin.delvallee@odalys.fr,odalys.fr,odalys-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+sabine.frank@traumhotel-alpina.at,traumhotel-alpina.at,scan.mx.vioma.de,Non,"Incertain (Code 553 : Listed by CSS, see https://check.spamhaus.org/query/ip/20.81.183.82)",Incertain
+silvia.catalano@catalanoconsulting.com,catalanoconsulting.com,smtp.secureserver.net,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+bruno@thehospitalityadvisor.com,thehospitalityadvisor.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+rizni.rozair@imhi.com,imhi.com,mail-fr.securemail.pro,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+jeanmaric.vendioux@tagehospitality.com,tagehospitality.com,,,Impossible (résolution MX échouée),Impossible (MX)
+sebastian@leipelthospitality.de,leipelthospitality.de,,,Impossible (résolution MX échouée),Impossible (MX)
+elfi.maier@revenuefocus.at,revenuefocus.at,revenuefocus-at.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+thomas.lecuna@droppsauna.com,droppsauna.com,mx01.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+aisling.phelan@nomadsauna.com,nomadsauna.com,smtp.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+jefferson.astorg@icecoolrecovery.fr,icecoolrecovery.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+vanylle.houchard@lemasdessedaries.fr,lemasdessedaries.fr,,,Impossible (résolution MX échouée),Impossible (MX)
