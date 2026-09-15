@@ -1,0 +1,101 @@
+Email,Domaine,Serveur_MX,Catch_All,Resultat_SMTP,Statut_Final
+a.adjacent@domainedalacorniche.com,domainedalacorniche.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.aguilar@chaletmounier.com,chaletmounier.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.alberto@partouche.com,partouche.com,partouche-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+a.andre@airelles.com,airelles.com,airelles-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+a.anfruns@relaisthalasso.com,relaisthalasso.com,relaisthalasso-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+a.aude@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+a.bachelier@riberach.com,riberach.com,riberach-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+a.bahadoor@appartcity.com,appartcity.com,appartcity-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+a.barat@lemasdepierre.com,lemasdepierre.com,lemasdepierre-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.barbier@appartcity.com,appartcity.com,appartcity-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+a.bardottier@thalasso-valdys.com,thalasso-valdys.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.bayet@chapeau-cornu.fr,chapeau-cornu.fr,mx01.cloud.vadesecure.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+a.bentz@arenadour.com,arenadour.com,vade-mx-fr01.hornetsecurity.com,Non,Inexistant (SMTP 550),Inexistant
+a.billon@thalasso-valdys.com,thalasso-valdys.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.birot@mmv.fr,mmv.fr,mmv-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.blanchard@atlantic-hotel.com,atlantic-hotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.bondarenco@jfg-clinic.com,jfg-clinic.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+a.boudrand@minorhotels.com,minorhotels.com,minorhotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.bourgeois@passagebleu.com,passagebleu.com,mail.cobweb.fr,Non,Incertain (Code 450 : 4.7.1 <verification-bot.com>: Helo command rejected: Host not found),Incertain
+a.bozec@espaceetvie.fr,espaceetvie.fr,espaceetvie-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.bressy@mariasibuet.com,mariasibuet.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.briand@thalasso-valdys.com,thalasso-valdys.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.bruneaux@vallon-valrugues.com,vallon-valrugues.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [74.235.90.80])",Incertain
+a.brunet@appartcity.com,appartcity.com,appartcity-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+a.cadic@recrea.fr,recrea.fr,recrea-fr.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+a.campagne@mmv.fr,mmv.fr,mmv-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.carrera@dokhanluxuryhotels.com,dokhanluxuryhotels.com,dokhanluxuryhotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.caseiro@lebouclierdor.com,lebouclierdor.com,lebouclierdor-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.castillo@cinq-maison.fr,cinq-maison.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+a.cellier@terredepastel.com,terredepastel.com,mail.terredepastel.com,Non,Inexistant (SMTP 550),Inexistant
+a.charbonnier@loucapitelle.com,loucapitelle.com,loucapitelle-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+a.chauvin@bellesrives.com,bellesrives.com,bellesrives-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.chevalier@monacollection.com,monacollection.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.coquet@cryofast.fr,cryofast.fr,srv04.haisoft.net,Non,Inexistant (SMTP 550),Inexistant
+a.cordeiro@hotel-bourgtheroulde.com,hotel-bourgtheroulde.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.dahyot@brithotel.fr,brithotel.fr,mx1.cyberbrain.net,Non,Incertain (Code 450 : 4.7.1 <a.dahyot@brithotel.fr>: Recipient address rejected: Service is unavailable (try later)),Incertain
+a.debeaupte@minorhotels.com,minorhotels.com,minorhotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.deguilhem@mgm-hotels-residences.com,mgm-hotels-residences.com,mgmhotelsresidences-com0i1e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.deroff@espaceetvie.fr,espaceetvie.fr,espaceetvie-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.dibello@vert-marine.com,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.didule@chateau-des-fleurs.com,chateau-des-fleurs.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.domingues@vert-marine.com,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.drilhon@chaismonnet.com,chaismonnet.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.dubourg@domainedalacorniche.com,domainedalacorniche.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.duchamp@lyonplage.com,lyonplage.com,mx3.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [74.235.90.80])",Incertain
+a.durand@clairazur.com,clairazur.com,mx01.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+a.durand@minorhotels.com,minorhotels.com,minorhotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.ebel@thalgo.com,thalgo.com,thalgo-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.elgharbi@louvre-hotels.com,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.elmouahide@dokhanluxuryhotels.com,dokhanluxuryhotels.com,dokhanluxuryhotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.etchebarne@lemasdepierre.com,lemasdepierre.com,lemasdepierre-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.farnier@avantgarde-hospitality.com,avantgarde-hospitality.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.feucherolles@grape-hospitality.com,grape-hospitality.com,grapehospitality-com01c.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.freppel@zenitude-groupe.com,zenitude-groupe.com,protect.oci.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+a.fret@hotelsezz.com,hotelsezz.com,hotelsezz-com.mail.eo.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.gambra@chateaudelagaude.com,chateaudelagaude.com,chateaudelagaude-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.gatti@chateauleognan.fr,chateauleognan.fr,mx00.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+a.gauzentes@louvre-hotels.com,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.gendrot@lesmaisonsdecampagne.com,lesmaisonsdecampagne.com,lesmaisonsdecampagne-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.gode@igesa.fr,igesa.fr,igesa-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.goel@mascandille.com,mascandille.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+a.gomez@vert-marine.com,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.gouriou@palmbeach-cannes.com,palmbeach-cannes.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [74.235.90.80])",Incertain
+a.gouzy@roussillhotel.com,roussillhotel.com,d64824b.ess.barracudanetworks.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+a.grimbert@dokhanluxuryhotels.com,dokhanluxuryhotels.com,dokhanluxuryhotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.grolleau@appartcity.com,appartcity.com,appartcity-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+a.guichard@louvre-hotels.com,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.hamon@okkohotels.com,okkohotels.com,okkohotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.hosni@foretdorient.com,foretdorient.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.houllet@vert-marine.com,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.hulin@recrea.fr,recrea.fr,recrea-fr.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+a.hurtado@airelles.com,airelles.com,airelles-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+a.jorge@lemasdepierre.com,lemasdepierre.com,lemasdepierre-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.josserand@montagnettes.com,montagnettes.com,mx-mibc-fr-01.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
+a.kermorgant@leboutiquehotelscollection.com,leboutiquehotelscollection.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [74.235.90.80])",Incertain
+a.kist@hotel-domaine-moulin.com,hotel-domaine-moulin.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.kreuz@airelles.com,airelles.com,airelles-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+a.l@legrandbe.com,legrandbe.com,vade-mx-fr01.hornetsecurity.com,Non,Inexistant (SMTP 550),Inexistant
+a.l@louvre-hotels.com,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.lambrecht@chateau-de-chapeau-cornu.fr,chateau-de-chapeau-cornu.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+a.langlace@infa-formation.com,infa-formation.com,aspmx.l.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+a.langlois@theoriginals-hotels.com,theoriginals-hotels.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.lapebie@luzgrandhotel.fr,luzgrandhotel.fr,luzgrandhotel-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.larrieu@lebarthelemyhotel.com,lebarthelemyhotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.leblond@assashotels.com,assashotels.com,assashotels-com.mail.protection.outlook.com,Non,"Incertain (Code 451 : 4.4.4 Mail received as unauthenticated, incoming to a recipient domain configured in a hosted tenant which has no mail-enabled subscriptions. ATTR5 [PA2PEPF00019230.FRAP264.PROD.OUTLOOK.COM 2026-09-15T06:06:55.991Z 08DF12BC06E467DE])",Incertain
+a.lecorre@grand-barrail.com,grand-barrail.com,grandbarrail-com01c.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+a.leguern@igesa.fr,igesa.fr,igesa-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.lelievre@hameaudespesquiers.com,hameaudespesquiers.com,mail.hameaudespesquiers.com,Non,"Expéditeur rejeté par le serveur (code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [74.235.90.80]) - vérification impossible",Erreur (voir Resultat_SMTP)
+a.lequette@vert-marine.com,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.lethiec@logishotels.com,logishotels.com,logishotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.leven@thalasso-valdys.com,thalasso-valdys.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.lisee@vert-marine.com,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.lombard@lesviolettes.com,lesviolettes.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.longavesne@lesterrassesdubailli.com,lesterrassesdubailli.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.lorieul@vert-marine.com,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.loury@igesa.fr,igesa.fr,igesa-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.lunardi@equalia.fr,equalia.fr,equalia-fr.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+a.m@dorchestercollection.com,dorchestercollection.com,eu-smtp-inbound-1.mimecast.com,Non,Incertain (Code 451 : Internal resource temporarily unavailable - https://community.mimecast.com/docs/DOC-1369#451 [G1Zft793PlO4im3ssuqb_A.uk311]),Incertain
+a.mansour@abbayedescapucins.com,abbayedescapucins.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [74.235.90.80])",Incertain
+a.marcelot@vacances-seasonova.com,vacances-seasonova.com,aspmx.l.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
