@@ -1,0 +1,101 @@
+Prenom,Nom,Email_Original,Resultat_Original,Domaine,Serveur_MX,Catch_All,Email_Valide_Trouve,Resultat_Nouvelle_Verification,Nb_Formats_Testes,Niveau_Confiance
+Stephanie,Guyot,s.guyot@alohaspa.fr,,alohaspa.fr,spool.mail.gandi.net,Non,,Aucun format validé par SMTP,8,Très faible
+Raphael,Jakkel,r.jakkel@alphotel.com,,alphotel.com,mail.innsbruck-hotels.at,Non,,Aucun format validé par SMTP,8,Très faible
+Inka,Erato,inka.erato@alternative.fr,,alternative.fr,mail-fr.securemail.pro,Non,,Aucun format validé par SMTP,8,Très faible
+Anne,VAILLANT,a.vaillant@amabienetre.fr,,amabienetre.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Jérémie,BITON,j.biton@amanta.fr,,amanta.fr,mx4.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Mireille,Cavigliasso,m.cavigliasso@anandabienetre.com,,anandabienetre.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Myriam,Clemens,m.clemens@anavrin.fr,,anavrin.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Malik,AIT BARA,m.aitbara@anavrin-promotion.com,,anavrin-promotion.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Olivier,Montarou,o.montarou@angledart.fr,,angledart.fr,mx0.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+stephane,dandoy,s.dandoy@anovahotel.com,,anovahotel.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Natasha,Fleuret,natasha.fleuret@adagio-city.com,,adagio-city.com,adagiocity-com01e.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Nicolas,Pavee,n.pavee@apnwellness.com,,apnwellness.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Ghislaine,MONTANO,g.montano@apreslapluie.fr,,apreslapluie.fr,mta-gw.infomaniak.ch,Non,,Aucun format validé par SMTP,8,Très faible
+Solenne,Forté,solenne.forte@aquamotion.fr,,aquamotion.fr,mx00.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Adeline,Nouvel,a.nouvel@piscinesdefrance.fr,,piscinesdefrance.fr,piscinesdefrance-fr.mail.protection.outlook.com,Non,adeline.nouvel@piscinesdefrance.fr,Valide (SMTP 250),2,Élevé
+wilfrid,jumere,w.jumere@aquensis.fr,,aquensis.fr,aquensis-fr.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Sylvain,Cabrol,s.cabrol@aquilus.fr,,aquilus.fr,aquilus-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Alain,Pund,a.pund@araucaria-hotel.com,,araucaria-hotel.com,hotelchamonix.net,Non,,Aucun format validé par SMTP,8,Très faible
+Maxime,Vilgrain,m.vilgrain@arenadour.com,,arenadour.com,vade-mx-fr02.hornetsecurity.com,Non,mvilgrain@arenadour.com,Valide (SMTP 250),4,Élevé
+Semprez,Cyrielle,c.semprez@aromaspa.fr,,aromaspa.fr,smtppromx.orange.fr,Non,,Aucun format validé par SMTP,9,Très faible
+MATTHIEU,BLANC,m.blanc@arrelia.com,,arrelia.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+stephan,inguanta,s.inguanta@artdecopiscine.fr,,artdecopiscine.fr,mx-mibc-fr-08.mailinblack.com,Non,stephan.inguanta@artdecopiscine.fr,Valide (SMTP 250),2,Élevé
+marc,crozet,m.crozet@asianvilla.fr,,asianvilla.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Christophe,FERON,c.feron@bienetresante.org,,bienetresante.org,,,,Impossible (résolution MX échouée),0,Indéterminé
+Sandrine,Guerant,s.guerant@lesmaisonsdulysse.com,,lesmaisonsdulysse.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+bernard,faugeras,b.faugeras@caphiba.fr,,caphiba.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Shogoro,Uemura,s.uemura@iyashidome.com,,iyashidome.com,iyashidome-com.mail.protection.outlook.com,Non,shogoro@iyashidome.com,Valide (SMTP 250),8,Élevé
+anthony,JAMMES,a.jammes@atelierdeladombes.fr,,atelierdeladombes.fr,mx1.hostinger.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Sébastien,LIETAER,s.lietaer@ateliernordic.com,,ateliernordic.com,mx4.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+ERIC,DAVRET,eric.davret@hotelsbarriere.com,,hotelsbarriere.com,spool.mail.gandi.net,Non,,Aucun format validé par SMTP,8,Très faible
+Philippe,Oliveros,p.oliveros@attentionparticuliere.com,,attentionparticuliere.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Hendrik,STEUNENBERG,h.steunenberg@aubergecavaliere.com,,aubergecavaliere.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Philippe,Boucher,p.boucher@aubergedecassagne.com,,aubergedecassagne.com,aubergedecassagne-com.mail.protection.outlook.com,Non,boucher@aubergedecassagne.com,Valide (SMTP 250),7,Élevé
+Néjib,Saidi,n.saidi@aubergedelabruyere.fr,,aubergedelabruyere.fr,aubergedelabruyere-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Chris,Coleman,c.coleman@bonlaboureur.com,,bonlaboureur.com,bonlaboureur-com.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Fatima,MOUGENOT,f.mougenot@auxportesdeleden.fr,,auxportesdeleden.fr,mail.mymail.eu.com,Non,,Aucun format validé par SMTP,8,Très faible
+BEATRICE,HITAU,b.hitau@auxsourcesdesonbienetre.fr,,auxsourcesdesonbienetre.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Xavier,Roy,x.roy@auxvieuxremparts.com,,auxvieuxremparts.com,auxvieuxremparts-com.mail.protection.outlook.com,Non,x.roy@auxvieuxremparts.com,Valide (SMTP 250),1,Élevé
+Jean-Michel,BOUAT,jm.bouat@avere-occitanie.fr,,avere-occitanie.fr,mx1.mail.ovh.net,Non,,Aucun format validé par SMTP,9,Très faible
+DANIEL,PARÉ,d.pare@azurmassages.com,,azurmassages.com,SMTP.GOOGLE.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Sebastien,Samseou,s.samseou@bbhomegroup.fr,,bbhomegroup.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Coustet,Jules,jules.coustet@hotelbb.com,,hotelbb.com,aspmx.l.google.com,Non,,Aucun format validé par SMTP,8,Très faible
+Domitille,Simon,domitille.simon@hotelbb.com,,hotelbb.com,aspmx.l.google.com,Non,,Aucun format validé par SMTP,8,Très faible
+Erwann,Kervegant,erwann.kervegant@hotelbb.com,,hotelbb.com,aspmx.l.google.com,Non,,Aucun format validé par SMTP,8,Très faible
+ABDEL,HOUBABI,abdel.houbabi@hotelbb.com,,hotelbb.com,aspmx.l.google.com,Non,,Aucun format validé par SMTP,8,Très faible
+Loïc,Van Cauwenberg,loic.vancauwenberg@hotelbb.com,,hotelbb.com,aspmx.l.google.com,Non,,Aucun format validé par SMTP,8,Très faible
+MORETEAU,Grenoble Centre Alpexpo,grenoble@hotelbb.com,,hotelbb.com,aspmx.l.google.com,Non,,Aucun format validé par SMTP,9,Très faible
+FARES,Amine,a.fares@bsignaturehotels.com,,bsignaturehotels.com,smtp1.besse.fr,Non,amine.fares@bsignaturehotels.com,Valide (SMTP 250),6,Élevé
+Mathieu,Laurent,m.laurent@baiaplage.com,,baiaplage.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Arnaud,Meyrieu,a.meyrieu@barlemaquis.com,,barlemaquis.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Michel,Lebriez,michel.lebriez@hotelsbarriere.com,,hotelsbarriere.com,spool.mail.gandi.net,Non,,Aucun format validé par SMTP,8,Très faible
+Robert,Barriere,r.barriere@barriere-automobiles.fr,,barriere-automobiles.fr,mx1.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Laurent,Muraglia,l.muraglia@hotelsbarriere.com,,hotelsbarriere.com,spool.mail.gandi.net,Non,,Aucun format validé par SMTP,8,Très faible
+jean louis,arniaud,jl.arniaud@hotelsbarriere.com,,hotelsbarriere.com,spool.mail.gandi.net,Non,,Aucun format validé par SMTP,9,Très faible
+Philippe,Schott,philippe.schott@bayrol.eu,,bayrol.eu,bayrol-eu.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Christophe,Marangon,c.marangon@hymeo.com,,hymeo.com,mx3.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Baha,Rachid,r.baha@berelax-immobilier.fr,,berelax-immobilier.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Sabine,Jacob,s.jacob@beautebienetre.fr,,beautebienetre.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Anne Sophie,Bellanger,as.bellanger@beautedessens.fr,,beautedessens.fr,mail.beautedessens.fr,Non,,Aucun format validé par SMTP,9,Très faible
+Jessica,Armante Brionne,j.armantebrionne@beautebienetre28.fr,,beautebienetre28.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Eric,Bairrão Ruivo,e.bairraoruivo@zoobeauval.com,,zoobeauval.com,zoobeauval-com.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+gérard,titrant,g.titrant@bergeriesdepalombaggia.com,,bergeriesdepalombaggia.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Isabelle,Proust,i.proust@bernard-loiseau.com,,bernard-loiseau.com,bernardloiseau-com01i.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Didier,Souvay,d.souvay@bestwestern.fr,,bestwestern.fr,bestwestern-mx1.titanhq.com,Non,,Aucun format validé par SMTP,8,Très faible
+YAN,BALA,y.bala@bestwestern.fr,,bestwestern.fr,bestwestern-mx1.titanhq.com,Non,,Aucun format validé par SMTP,8,Très faible
+baptiste,dedeler,b.dedeler@hotel-amarys.com,,hotel-amarys.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Christophe,Jaguenaud,c.jaguenaud@artisthotel.fr,,artisthotel.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+JEAN MICHEL,BUROW,jm.burow@leloch.com,,leloch.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Nela,Hornakova,n.hornakova@hoteldesorangers.com,,hoteldesorangers.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+pascal,wasz,p.wasz@lesemaphore.com,,lesemaphore.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Stéphane,Mattiolo,s.mattiolo@summerhotels.com,,summerhotels.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Dominique,Pujol pujol,d.pujol@hotel-galice.com,,hotel-galice.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Cédric,Hennion,c.hennion@hoteldesfrancs.com,,hoteldesfrancs.com,mx.en-prod.com,Non,,Aucun format validé par SMTP,8,Très faible
+Denis,Frachon,d.frachon@roosevelthotel.fr,,roosevelthotel.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+flore,querel,f.querel@bienetre.fr,,bienetre.fr,mx.etigris.com,Non,,Aucun format validé par SMTP,8,Très faible
+jeanne,bougon,j.bougon@bienetre.fr,,bienetre.fr,mx.etigris.com,Non,,Aucun format validé par SMTP,8,Très faible
+marie cecile,roulaud,mc.roulaud@bienetre.fr,,bienetre.fr,mx.etigris.com,Non,,Aucun format validé par SMTP,9,Très faible
+MARIA,SERRANO AGUAYO,m.serrano@bienetrealamaison.fr,,bienetrealamaison.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Stephanie,Moal,s.moal@bienetre-esthetique.fr,,bienetre-esthetique.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Sandrine,Petit,s.petit@bienetre5d.fr,,bienetre5d.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Sterenn,Jan,s.jan@bienetre-au-rendezvous.fr,,bienetre-au-rendezvous.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Rodet,Rodet,rodet@bienetre-entreprise.fr,,bienetre-entreprise.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+guillaume,gauvin,g.gauvin@billabong-stmalo.fr,,billabong-stmalo.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Mylène,Kuntschmann,m.kuntschmann@biotyful.fr,,biotyful.fr,mail-fr.securemail.pro,Non,,Aucun format validé par SMTP,8,Très faible
+Ghislain,Benazet,g.benazet@bnspro.fr,,bnspro.fr,mx1.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Rebecca,Fournier,r.fournier@bo-thermal.com,,bo-thermal.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Antoine,Beaufort,a.beaufort@bonsaidescimes.fr,,bonsaidescimes.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Caroline,DEMON,caroline.demon@evokcollection.com,,evokcollection.com,evokcollection-com.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Nolwenn,Legrand,n.legrand@breizhen-esthetique.fr,,breizhen-esthetique.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Laurent,STEKKE,l.stekke@brithotel.fr,,brithotel.fr,mx1.cyberbrain.net,Non,,Aucun format validé par SMTP,8,Très faible
+Nathalie,Piriou,n.piriou@brithotel.fr,,brithotel.fr,mx1.cyberbrain.net,Non,,Aucun format validé par SMTP,8,Très faible
+SYLVAIN,GIRAUDEAU,s.giraudeau@brithotel.fr,,brithotel.fr,mx1.cyberbrain.net,Non,,Aucun format validé par SMTP,8,Très faible
+Elisabeth,Prel,e.prel@brithotel.fr,,brithotel.fr,mx1.cyberbrain.net,Non,,Aucun format validé par SMTP,8,Très faible
+BERNARD,SOURMAIL,b.sourmail@brithotel.fr,,brithotel.fr,mx1.cyberbrain.net,Non,,Aucun format validé par SMTP,8,Très faible
+BRIT HOTEL QUIMPER,SUD,quimper.sud@brithotel.fr,,brithotel.fr,mx1.cyberbrain.net,Non,,Aucun format validé par SMTP,9,Très faible
+Alexia,BEAUDOUIN,a.beaudouin@brithotel.fr,,brithotel.fr,mx1.cyberbrain.net,Non,,Aucun format validé par SMTP,8,Très faible
+Etienne,QUEHEN-REMY,e.quehenremy@brithotel.fr,,brithotel.fr,mx1.cyberbrain.net,Non,,Aucun format validé par SMTP,8,Très faible
+Anthony,Perrois,a.perrois@brithotel.fr,,brithotel.fr,mx1.cyberbrain.net,Non,,Aucun format validé par SMTP,8,Très faible
+Bretaudeau,Nathalie,n.bretaudeau@brithotel.fr,,brithotel.fr,mx1.cyberbrain.net,Non,,Aucun format validé par SMTP,9,Très faible
+Romina,DI GIACOMO,r.digiacomo@bulledebienetre.fr,,bulledebienetre.fr,mx1.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
