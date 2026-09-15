@@ -199,3 +199,103 @@ acrepelliere@diormail.com,diormail.com,mxa-0024c501.gslb.pphosted.com,Non,Expéd
 acuordifede@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
 adam.lhasbellaoui@mamashelter.com,mamashelter.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
 adama@agir-ensemble-bienetre.fr,agir-ensemble-bienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+adaval@sbm.mc,sbm.mc,mxa-0085f401.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+adel@oneconciergerie.com,oneconciergerie.com,aspmx.l.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+adelaide.castillo@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+adelie.henry@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+adeline.amiaud@eden-spa.fr,eden-spa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+adeline.bigeyre@caliceo.com,caliceo.com,caliceo-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+adeline.coulon@azium.fr,azium.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+adeline.duvette@shendao.fr,shendao.fr,mx00.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+adeline.guerard@lespresdeugenie.com,lespresdeugenie.com,spool.mail.gandi.net,Non,Inexistant (SMTP 550),Inexistant
+adeline.kaprielian@georgesblanc.com,georgesblanc.com,mx-mibc-fr-02.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
+adeline@institutocéa.fr,institutocéa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+adeline@verareflexologie.fr,verareflexologie.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+adeline@ysea-formation.fr,ysea-formation.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.214.117])",Incertain
+ademange@guerlain.fr,guerlain.fr,mxb-0024c501.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+aderidder@guerlain.fr,guerlain.fr,mxb-0024c501.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+adib@hammamettraditions.fr,hammamettraditions.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+adossantos@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+adriana.teixeira@spaarzana.fr,spaarzana.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+adrien.bois@lemirageexotique.com,lemirageexotique.com,,,Impossible (résolution MX échouée),Impossible (MX)
+adrien.chiron@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+adrien.coerini@vacanceole.com,vacanceole.com,vacanceole-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+adrien.conte@odalys.fr,odalys.fr,odalys-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+adrien.faleme@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+adrien.grebert@mamashelter.com,mamashelter.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+adrien.guenezan@zoobeauval.com,zoobeauval.com,zoobeauval-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+adrien.guillot@tiara-hotels.com,tiara-hotels.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.214.117])",Incertain
+adrien.lagarde@radissonhotels.com,radissonhotels.com,radissonhotels.in.tmes.trendmicro.eu,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+adrien.marcant@guerlain.fr,guerlain.fr,mxb-0024c501.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+adrien.poul@fourseasons.com,fourseasons.com,mx1.fourseasons.iphmx.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+adrien.prevost@raffles.com,raffles.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+adrien.sardin@theascott.com,theascott.com,,,Impossible (résolution MX échouée),Impossible (MX)
+adrien.sciascia@fahrenheitseven.com,fahrenheitseven.com,fahrenheitseven-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+adrien.tripiana@orfea.fr,orfea.fr,orfea-fr.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+adrien.vissiere@antares-meribel.com,antares-meribel.com,antaresmeribel-com01i.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+adrien@arboconcept.fr,arboconcept.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+adrien@wellnesswave.fr,wellnesswave.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+adurrieu@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+aenault@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+af.galpin@domaine-bellevue.fr,domaine-bellevue.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+afaivre@sbm.mc,sbm.mc,mxa-0085f401.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+afef.ahaddouche@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+afoubert@previthal.com,previthal.com,previthal-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+agathe.blanc@seasons-courchevel.com,seasons-courchevel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+agathe.bougle@vitalparc.com,vitalparc.com,vitalparc-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+agathe.flouriot@lecouventdesminimes.com,lecouventdesminimes.com,lecouventdesminimes-com.mail.protection.outlook.com,Non,Erreur réseau : [Errno -2] Name or service not known,Erreur (voir Resultat_SMTP)
+agathe.garrigues@prairiesdelamer.com,prairiesdelamer.com,,,Impossible (résolution MX échouée),Impossible (MX)
+agathe.gerber@hotel-alsace-strasbourg.com,hotel-alsace-strasbourg.com,,,Impossible (résolution MX échouée),Impossible (MX)
+agathe.gibey@queenshotelparis.com,queenshotelparis.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.214.117])",Incertain
+agathe.gouraud@hotelbb.com,hotelbb.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+agathe.perrot@antares-hotel.com,antares-hotel.com,aspmx.l.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+agathe.rattel@arevcollection.com,arevcollection.com,arevcollection-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+agathe.roncolato@yona.fr,yona.fr,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.214.117])",Incertain
+agathe@vertigohotel.fr,vertigohotel.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+agay@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+agerard@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+agnes.debousquet@dorchestercollection.com,dorchestercollection.com,eu-smtp-inbound-2.mimecast.com,Non,Incertain (Code 451 : Internal resource temporarily unavailable - https://community.mimecast.com/docs/DOC-1369#451 [jqa_fcCyNEOx7sqejKbAuA.uk218]),Incertain
+agnes.druet@bestwestern.fr,bestwestern.fr,bestwestern-mx1.titanhq.com,Non,Inexistant (SMTP 550),Inexistant
+agnes.razanaka@oceaniahotels.com,oceaniahotels.com,oceaniahotels-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+agnes@espacebeaute.fr,espacebeaute.fr,mx186.m2bp.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+agnes@ligneetharmonie.fr,ligneetharmonie.fr,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.214.117])",Incertain
+agnes@wellnessclub.fr,wellnessclub.fr,aspmx.l.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+agop.momdjian@raffles.com,raffles.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+agransart@ponant.com,ponant.com,mxa-0094fe01.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+agrasset@dior.com,dior.com,mxb-0024c501.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+aguivarch@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+ahaudoire@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+ahmed.haddi@disney.com,disney.com,disney-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+ahmed.hamdini@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <ahmed.hamdini@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+ahmed.kamel@aicr.org,aicr.org,aicr-org.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+ahmed@beautylounge.fr,beautylounge.fr,mx186.mb1p.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+ahmedyoucef.amara@hotelbb.com,hotelbb.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+ahubert@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+aibout.abdelkader@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+aimance@aphroditespa.fr,aphroditespa.fr,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.214.117])",Incertain
+aimee.labossiere@disney.com,disney.com,disney-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+aimeeleigh.dale@apexhotels.co.uk,apexhotels.co.uk,apexhotels-co-uk.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+aisling@nomadsaunaice.com,nomadsaunaice.com,,,Impossible (résolution MX échouée),Impossible (MX)
+aj.corbe@ecole-internationale-spa.fr,ecole-internationale-spa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+ajanvier@ponant.com,ponant.com,mxa-0094fe01.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+akada@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+akila.kebli@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+aklebescond@ponant.com,ponant.com,mxa-0094fe01.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+al.bouyssou@roussillhotel.com,roussillhotel.com,d64824b.ess.barracudanetworks.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+al.fribourg@appartcity.com,appartcity.com,appartcity-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+al.ollagnon@airelles.com,airelles.com,airelles-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+alain.beausejour@disney.com,disney.com,disney-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alain.boishardy@mileade.com,mileade.com,mileade-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alain.bourguignon@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <alain.bourguignon@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+alain.chastel@infa-formation.com,infa-formation.com,aspmx.l.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alain.chaufournier@hotelvillaspa.com,hotelvillaspa.com,,,Impossible (résolution MX échouée),Impossible (MX)
+alain.cizo@marchicalagoonresort.com,marchicalagoonresort.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [20.55.214.117])",Incertain
+alain.freson@mmv.fr,mmv.fr,mmv-fr.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+alain.henrion@gvh-hotels.com,gvh-hotels.com,,,Impossible (résolution MX échouée),Impossible (MX)
+alain.mara@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alain.mourgues@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alain.palmieri@lemasdepierre.com,lemasdepierre.com,lemasdepierre-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alain.parrot@campanile.fr,campanile.fr,campanile-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alain.pham@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alain.sebban@vatel.fr,vatel.fr,vatel-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alain.spinner@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
