@@ -299,3 +299,103 @@ alain.parrot@campanile.fr,campanile.fr,campanile-fr.mail.protection.outlook.com,
 alain.pham@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
 alain.sebban@vatel.fr,vatel.fr,vatel-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
 alain.spinner@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alain.thomas@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alain.weill@lilyofthevalley.com,lilyofthevalley.com,lilyofthevalley-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alan.levouedec@adagio-apartements.com,adagio-apartements.com,,,Impossible (résolution MX échouée),Impossible (MX)
+alan.odea@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alaporte@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+alastair.morin@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alban.daubenton@labellemontagne.com,labellemontagne.com,labellemontagne-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alban.panel@monsieurgeorge.com,monsieurgeorge.com,monsieurgeorge-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alban.pesquet@cadhi.fr,cadhi.fr,cadhi-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alban.ruggiero@jost-hotel.com,jost-hotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+albertina@le4mainsparis.com,le4mainsparis.com,,,Impossible (résolution MX échouée),Impossible (MX)
+alberto.mereu@hotelsezz.com,hotelsezz.com,hotelsezz-com.mail.eo.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alberto.tosi@hyatt.com,hyatt.com,mxa-00114c02.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+alegourrierec@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+alejeune@thermes-larocheposay.fr,thermes-larocheposay.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+aleksandra.turjacanin@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alelluch@diormail.com,diormail.com,mxa-0024c501.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+alemasson@maybourneriviera.com,maybourneriviera.com,maybourne-uk-sg1.maybourne.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+aleprovost@diormail.com,diormail.com,mxa-0024c501.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+alessandro.cresta@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alessandro.nigro@fourseasons.com,fourseasons.com,mx2.fourseasons.iphmx.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alessio.tallarico@carltoncannes.com,carltoncannes.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.137.213])",Incertain
+alevalois@groupebarriere.com,groupebarriere.com,aspmx.l.google.com,Non,Valide (SMTP 250),Valide
+alex.boye@citadines.com,citadines.com,capitaland.in.tmes.trendmicro.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alexander.gelegs@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alexander.grube@afleurdepeau.fr,afleurdepeau.fr,mx186.m2bp.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alexander.krips@bourgognequalite.com,bourgognequalite.com,,,Impossible (résolution MX échouée),Impossible (MX)
+alexandra.cazzilli@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <alexandra.cazzilli@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+alexandra.chapouty@bains-chamrousse.com,bains-chamrousse.com,,,Impossible (résolution MX échouée),Impossible (MX)
+alexandra.dicarlo@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <alexandra.dicarlo@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+alexandra.gavsevitch@vitaltech.fr,vitaltech.fr,mx186.m2bp.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alexandra.goguet@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alexandra.h@vacancesbleues.fr,vacancesbleues.fr,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+alexandra.labarthe@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alexandra.langlois@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <alexandra.langlois@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+alexandra.leonoff@hotel-laplage.fr,hotel-laplage.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+alexandra.lorin@jardinsdecoppelia.com,jardinsdecoppelia.com,,,Impossible (résolution MX échouée),Impossible (MX)
+alexandra.mouracade@guerlain.fr,guerlain.fr,mxa-0024c501.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+alexandra.mrksa@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alexandra.p@hoteldeparis-saint-tropez.com,hoteldeparis-saint-tropez.com,,,Impossible (résolution MX échouée),Impossible (MX)
+alexandra.preuvot@chainethermale.fr,chainethermale.fr,mail-relay01-inetum.chainethermale.fr,Non,Inexistant (SMTP 550),Inexistant
+alexandra.scie@hotellutetia.com,hotellutetia.com,hotellutetia-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alexandra.soucasse@villaseren.fr,villaseren.fr,villaseren-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alexandra.vesin@aman.com,aman.com,eu-smtp-inbound-1.mimecast.com,Non,Inexistant (SMTP 550),Inexistant
+alexandra@bewellsociety.com,bewellsociety.com,,,Impossible (résolution MX échouée),Impossible (MX)
+alexandra@espacedo.fr,espacedo.fr,mx01.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+alexandra@ikariaspa.com,ikariaspa.com,,,Impossible (résolution MX échouée),Impossible (MX)
+alexandra@naturopathie.fr,naturopathie.fr,spool.mail.gandi.net,Non,Inexistant (SMTP 550),Inexistant
+alexandra@zenaddict.fr,zenaddict.fr,spool.mail.gandi.net,Non,Inexistant (SMTP 550),Inexistant
+alexandre.aoustet@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alexandre.assous@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alexandre.audouin@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alexandre.benoit@boscolocollection.com,boscolocollection.com,boscolocollection-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alexandre.chaplais@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alexandre.courthieu@cash-piscines.com,cash-piscines.com,cashpiscines-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alexandre.deschamps@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <alexandre.deschamps@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+alexandre.elchardus@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alexandre.fabris@bestwestern.fr,bestwestern.fr,bestwestern-mx1.titanhq.com,Non,Inexistant (SMTP 550),Inexistant
+alexandre.gautier@mgm-groupe.com,mgm-groupe.com,mgmgroupe-com0i.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alexandre.germain@rosewoodhotels.com,rosewoodhotels.com,rosewoodhotels-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+alexandre.jonnet@okkohotels.com,okkohotels.com,okkohotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alexandre.kohler@happyculture.com,happyculture.com,happyculture-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alexandre.leao@hotelsresidencescresci.com,hotelsresidencescresci.com,,,Impossible (résolution MX échouée),Impossible (MX)
+alexandre.leclercq@cash-piscines.com,cash-piscines.com,cashpiscines-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alexandre.legoux@thalazur.fr,thalazur.fr,mx2.coaxis.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alexandre.loncke@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alexandre.lordonnois@lareserve-paris.com,lareserve-paris.com,mxa-008f2201.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+alexandre.loubatie@hilton.com,hilton.com,hilton-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alexandre.marcellino@arevcollection.com,arevcollection.com,arevcollection-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alexandre.n@appartcity.com,appartcity.com,appartcity-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alexandre.neuville@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alexandre.perrin@villacosy.com,villacosy.com,mx00.1and1.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+alexandre.pons@hoteldupalais.fr,hoteldupalais.fr,mx186.mb1p.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alexandre.radovanovic@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+alexandre.raineau@terapeya.fr,terapeya.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.137.213])",Incertain
+alexandre.sanz@lamaisonduvillage.fr,lamaisonduvillage.fr,mx00.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+alexandre.thierry@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+alexandre.touache@carltoncannes.com,carltoncannes.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.137.213])",Incertain
+alexandre.vial@centre-thetys.fr,centre-thetys.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.137.213])",Incertain
+alexandre@alexbienetre.fr,alexbienetre.fr,mx01.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+alexandre@armpoolspa.fr,armpoolspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+alexandre@lechaletmontblanc.com,lechaletmontblanc.com,mail.lechaletmontblanc.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+alexandre@optimize-hospitality.com,optimize-hospitality.com,mx.zoho.eu,Non,Inexistant (SMTP 550),Inexistant
+alexandreskander.archier@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <alexandreskander.archier@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+alexandrie@evoluzen.fr,evoluzen.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.137.213])",Incertain
+alexandros.efkarpidis@heliopic-hotel.com,heliopic-hotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+alexane.vedovati@lilyofthevalley.com,lilyofthevalley.com,lilyofthevalley-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alexane.wojciechowski@lareserve-paris.com,lareserve-paris.com,mxa-008f2201.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+alexia.baz@essec.edu,essec.edu,mxb-003ebb02.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+alexia.cuisinier@chevredor.com,chevredor.com,chevredor-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alexia.dessed@hotel-labaronnie.com,hotel-labaronnie.com,mx-mibc-fr-05.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
+alexia.ibanez@paxton-mlv.com,paxton-mlv.com,paxtonmlv-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alexia.roy@domainedemarlioz.com,domainedemarlioz.com,smtp.rzone.de,Non,Inexistant (SMTP 550),Inexistant
+alexia@spalesboisnoirs.fr,spalesboisnoirs.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+alexis.artis@lerocherdesabeilles.fr,lerocherdesabeilles.fr,lerocherdesabeilles.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+alexis.daney@odalys.fr,odalys.fr,odalys-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alexis.delapalme@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <alexis.delapalme@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+alexis.foret@irisetwillyspa.com,irisetwillyspa.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.137.213])",Incertain
+alexis.lalo@relaischateaux.com,relaischateaux.com,mail.cleanmail.eu,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+alexis.lenigen@lediamondrock.com,lediamondrock.com,,,Impossible (résolution MX échouée),Impossible (MX)
